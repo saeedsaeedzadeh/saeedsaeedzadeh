@@ -28,7 +28,7 @@
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
-    <a href="https://www.linkedin.com/in/saeedsaeedzadeh" target="_blank">
+    <a href="https://www.linkedin.com/in/saeed saeedzadeh" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://www.instagram.com/saeedsdz_/" target="_blank">
